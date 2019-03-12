@@ -15,6 +15,6 @@ In the [third course](https://www.coursera.org/learn/ai) of the IBM Advanced Dat
 
 ## Programming Assignment Notebooks
 
-- [x] [Anomoly Detection](https://github.com/codeamt/IBM-Advanced-Data-Science/blob/master/Advanced%20Machine%20Learning%20and%20Signal%20Processing/c2_assignment1.ipynb)
-- [x] [Apache SystemML](https://github.com/codeamt/IBM-Advanced-Data-Science/blob/master/Advanced%20Machine%20Learning%20and%20Signal%20Processing/c2_assignment2.ipynb)
+- [x] [Anomoly Detection](https://github.com/codeamt/IBM-Advanced-Data-Science/blob/master/Applied%20AI%20with%20Deep%20Learning/c3_assignment3.ipynb)
+- [x] [Apache SystemML](https://github.com/codeamt/IBM-Advanced-Data-Science/blob/master/Applied%20AI%20with%20Deep%20Learning/c3_assignment4.ipynb)
 
