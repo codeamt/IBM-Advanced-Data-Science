@@ -13,6 +13,10 @@ In the [final course](https://www.coursera.org/learn/advanced-data-science-capst
 <img src="https://github.com/codeamt/IBM-Advanced-Data-Science/blob/master/Advanced%20Data%20Science%20Capstone/cert4.jpg" width="70%" height="60%">
 </p>
 
+<video width="320" height="240" controls>
+  <source src="#" type="video/mp4">
+</video
+
 ## Milestone Notebooks
 
 - [x] [Data Exploration, ETL, Feature Engineering ](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/8a3ccff6-0b0a-407a-9863-bf8c2fca44e6/view?access_token=edfd1ab62a9b92d414524326558c20a096f3c4a9628d93d6829952a135110acc)
